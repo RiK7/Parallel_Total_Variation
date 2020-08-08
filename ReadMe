@@ -1,4 +1,8 @@
-Requirement:OpenCV (,CUDA if you want to run CUDA version)
+Final project for parallel programming course.
 
-    There is our code and input videos. To compile our code, you just need to cd to the selection version and run the build.sh file. And for running file, just run the run.sh file.
-    If you want to know more parameter you can input, just append "-h" at the end of run.sh.
+Use one of parallel method to acclearate total variation noise removal method.
+
+(Methods: cuda, openmp, serial, thread, openmp)
+
+Partners:<br>
+湯沂達，許睿之，彭詩峰。
