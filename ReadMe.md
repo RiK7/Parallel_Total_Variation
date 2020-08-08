@@ -1,6 +1,5 @@
-Final project for parallel programming course.
-Use one of parallel method to acclearate total variation noise removal method.
-
+Final project for parallel programming course.<br>
+Use one of parallel method to acclearate total variation noise removal method.<br>
 (Methods: cuda, openmp, serial, thread, openmp)
 
 Partners:<br>
