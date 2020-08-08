@@ -1,0 +1,2 @@
+/usr/bin/ar qc libROFtv.a  CMakeFiles/ROFtv.dir/ROFtv.cpp.o
+/usr/bin/ranlib libROFtv.a

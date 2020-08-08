@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ROFtv	ROFtv/ROFtv.cpp	/^    Mat ROFtv(const Mat& u0,$/;"	f	namespace:tv
+calculateSecondDiff	ROFtv/ROFtv.cpp	/^    void calculateSecondDiff(InputArray U0p_, InputArray U0n_,$/;"	f	namespace:tv
+deltaX_n	ROFtv/finiteDifference.hpp	/^void deltaX_n(const cv::Mat& u, cv::Mat& result)$/;"	f
+deltaX_p	ROFtv/finiteDifference.hpp	/^void deltaX_p(const cv::Mat& u, cv::Mat& result)$/;"	f
+deltaY_n	ROFtv/finiteDifference.hpp	/^void deltaY_n(const cv::Mat& u, cv::Mat& result)$/;"	f
+deltaY_p	ROFtv/finiteDifference.hpp	/^void deltaY_p(const cv::Mat& u, cv::Mat& result)$/;"	f
+lambda	ROFtv/finiteDifference.hpp	/^void lambda(const cv::Mat& u0x, const cv::Mat& u0y, $/;"	f
+main	app/ROF_tv.cpp	/^int main(int argc, char** argv)$/;"	f
+main	app/ROF_tv_old.cpp	/^int main(int argc, char** argv)$/;"	f
+minmod	ROFtv/finiteDifference.hpp	/^float minmod(const float a, const float b)$/;"	f
+tv	ROFtv/ROFtv.cpp	/^namespace tv$/;"	n	file:
+tv	ROFtv/ROFtv.hpp	/^namespace tv$/;"	n
